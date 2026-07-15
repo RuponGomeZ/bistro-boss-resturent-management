@@ -1,6 +1,6 @@
 # Bistro Boss Restaurant
 
-A modern, full-stack restaurant management system that allows users to browse menus, place orders, and manage reservations. Built with React for the frontend and Node.js for the backend, featuring secure authentication, payment integration, and an intuitive admin dashboard.
+A modern, full-stack restaurant management system that allows users to browse menus, place orders, and manage reservations. Built with React for the frontend and Node.js for the backend, featuring [...]
 
 ## 🚀 Live Demo
 
@@ -38,6 +38,54 @@ Experience the application live at: [https://stro-boss-3b7c5.web.app/](https://s
 - **Axios** - HTTP client for API requests
 - **React Router** - Client-side routing
 - **ESLint** - Code linting
+
+## 📦 Dependencies
+
+### Production Dependencies
+
+| Package | Version | Purpose |
+|---------|---------|---------|
+| `react` | ^18.3.1 | Core React library for UI components |
+| `react-dom` | ^18.3.1 | React DOM rendering library |
+| `react-router-dom` | ^7.6.1 | Client-side routing and navigation |
+| `@tanstack/react-query` | ^5.80.3 | Data fetching and caching library |
+| `axios` | ^1.9.0 | HTTP client for API requests |
+| `firebase` | ^11.8.1 | Authentication and hosting services |
+| `react-hook-form` | ^7.56.4 | Efficient form state management |
+| `@stripe/react-stripe-js` | ^3.7.0 | Stripe payment integration |
+| `@stripe/stripe-js` | ^7.3.1 | Stripe JavaScript library |
+| `sweetalert2` | ^11.22.0 | Beautiful alert dialogs and notifications |
+| `react-icons` | ^5.5.0 | Icon library for React |
+| `recharts` | ^2.15.3 | Chart and analytics visualization |
+| `react-responsive-carousel` | ^3.2.23 | Responsive carousel component |
+| `react-parallax` | ^3.5.2 | Parallax scrolling effect |
+| `swiper` | ^11.2.8 | Touch slider carousel |
+| `react-tabs` | ^6.1.0 | Tabbed interface component |
+| `react-helmet-async` | ^2.0.5 | Document head management |
+| `@smastrom/react-rating` | ^1.5.0 | Star rating component |
+| `react-simple-captcha` | ^9.3.1 | CAPTCHA verification |
+| `jsonwebtoken` | ^9.0.2 | JWT token creation and verification |
+| `localforage` | ^1.10.0 | Offline storage solution |
+| `match-sorter` | ^8.0.2 | Filtering and sorting utility |
+| `sort-by` | ^1.2.0 | Simple sorting utility |
+| `add` | ^2.0.6 | Utility package |
+
+### Development Dependencies
+
+| Package | Version | Purpose |
+|---------|---------|---------|
+| `vite` | ^6.3.5 | Fast build tool and dev server |
+| `@vitejs/plugin-react` | ^4.4.1 | React plugin for Vite |
+| `tailwindcss` | ^3.4.17 | Utility-first CSS framework |
+| `autoprefixer` | ^10.4.21 | PostCSS plugin for vendor prefixes |
+| `postcss` | ^8.5.3 | CSS transformation tool |
+| `daisyui` | ^5.0.40 | Tailwind CSS component library |
+| `eslint` | (via @eslint/js) | Code linting and quality |
+| `@eslint/js` | ^9.25.0 | ESLint JavaScript rules |
+| `eslint-plugin-react-refresh` | ^0.4.19 | ESLint plugin for React Fast Refresh |
+| `@types/react` | ^19.1.2 | TypeScript types for React |
+| `@types/react-dom` | ^19.1.2 | TypeScript types for React DOM |
+| `globals` | ^16.0.0 | Global variable definitions |
 
 ## 📋 Prerequisites
 
